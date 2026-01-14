@@ -1,3 +1,3 @@
 #!/bin/bash
 
-scp -i ~/.ssh/zib_access -r /Users/sherzodhakimov/Work/Projects/nhr-cluster-usage/lora_finetuning_example bbmpotsd@blogin.nhr.zib.de:~
+scp -i ~/.ssh/YOUR-SSH-KEY -r /YOUR_LOCAL_PATH/lora_finetuning_example YOUR-USER-NAME@blogin.nhr.zib.de:~
