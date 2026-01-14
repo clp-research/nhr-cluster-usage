@@ -1,3 +1,8 @@
+# Copying files to the remote machine
+adjust the scp script `copy_files.sh` by putting your ssh key instead of YOUR-SSH-KEY field, your actual path of the folder  (YOUR_LOCAL_PATH) and the user name (YOUR-USER-NAME). Change these fields and upload the files under the folder as the remote machine `does not allow downloading files`.
+
+
+
 # How to run
 `sbatch run.sh`
 
